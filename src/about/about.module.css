@@ -1,0 +1,9 @@
+.about{
+    background-color: #1abc9c;
+}
+.divider .line {
+  width: 80px;
+  height: 4px;
+  background-color: #fff;
+  border-radius: 5px;
+}
