@@ -1,0 +1,15 @@
+.hero {
+  background-color: #1abc9c;
+  min-height: 100vh;
+}
+
+.image {
+  width: 250px;
+}
+
+.divider .line {
+  width: 80px;
+  height: 4px;
+  background-color: #fff;
+  border-radius: 5px;
+}
