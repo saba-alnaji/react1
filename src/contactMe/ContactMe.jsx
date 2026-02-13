@@ -3,9 +3,9 @@ import style from "./contactMe.module.css";
 
 export default function ContactMe() {
   return (
-    <section className={style.containerSection} id='contact'>
+    <section className='contactme py-5' id='contact'>
       <div className="container">
-       <h2 className={`${style.h2} text-uppercase fw-bold text-center mb-3`}>Portfolio</h2>
+       <h2 className={`${style.h2} text-uppercase fw-bold text-center mb-3`}>contact me</h2>
                  <div className={`${style.divider} d-flex align-items-center justify-content-center my-3`}>
                    <div className={style.line}></div>
                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="30"

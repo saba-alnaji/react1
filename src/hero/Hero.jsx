@@ -19,7 +19,7 @@ export default function Hero() {
         </div>
 
         <p className='fs-5'>
-          Graphic Artist - Web Designer - Illustrator
+          Graphic Artist - Web Designer - lllustrator
         </p>
 
       </div>
