@@ -13,7 +13,7 @@ export default function Portfolio() {
     <>
       <section className='portfolio py-5'>
         <div className='container'>
-          <h2 className={`${style.h2} text-uppercase fw-bold text-center mb-3`}>Portfolio</h2>
+          <h2 className={`${style.h2} text-uppercase fw-bold text-center mb-3`} id='Portfolio'>Portfolio</h2>
           <div className={`${style.divider} d-flex align-items-center justify-content-center my-3`}>
             <div className={style.line}></div>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="30"

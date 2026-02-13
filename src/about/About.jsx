@@ -3,7 +3,7 @@ import style from './about.module.css'
 export default function About() {
   return (
     <>
-      <section className={`${style.about} text-white py-5`}>
+      <section className={`${style.about} text-white py-5`} id='about'>
         <div className='container'>
           <h2 className={`${style.h2} text-uppercase fw-bold text-center text-white mb-3 fs-1`}>about</h2>
           <div className={`${style.divider} d-flex align-items-center justify-content-center my-3`}>
